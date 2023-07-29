@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bank-details {
+  display: flex;
+  justify-content: space-between;
+}
+.income-container {
+  display: flex;
+  align-items: center;
+  border: 1.5px solid #06b6d4;
+  background-color: #cffafe;
+  padding: 10px;
+  border-radius: 10px;
+  width: 15rem;
+  justify-content: space-around;
+}
+.balance-container {
+  display: flex;
+  align-items: center;
+  border: 1.5px solid #84cc16;
+  background-color: #ecfccb;
+  padding: 10px;
+  border-radius: 10px;
+  width: 15rem;
+  justify-content: space-around;
+}
+.expenses-container {
+  display: flex;
+  align-items: center;
+  border: 1.5px solid #7c3aed;
+  background-color: #ede9fe;
+  padding: 10px;
+  border-radius: 10px;
+  width: 15rem;
+  justify-content: space-around;
+}
+.bank-image {
+  height: 90px;
+}

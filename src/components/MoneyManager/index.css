@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.web-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-container {
+  width: 50%;
+}
+.header {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+.button {
+  cursor: pointer;
+  outline: none;
+  border-width: 0;
+  background-color: #8b5cf6;
+  color: #ffffff;
+  padding: 9px;
+  border-radius: 2px;
+  width: 65px;
+}
+.input-box {
+  width: 100%;
+  padding: 4px;
+  margin-bottom: 20px;
+  margin-top: 7px;
+}
+.bottom-section {
+  display: flex;
+}
+.form {
+  margin-top: 40px;
+  border: 0.5px solid #1e293b;
+  margin-right: 20px;
+  padding: 15px;
+  width: 30rem;
+  height: 25rem;
+  border-radius: 10px;
+}
+.transaction-details {
+  margin-top: 40px;
+  border: 0.5px solid #1e293b;
+  padding: 15px;
+  width: 100%;
+  border-radius: 10px;
+  height: 25rem;
+}
+.heading-container {
+  display: flex;
+  border: 0.5px solid #1e293b;
+}
+.headings {
+  margin-left: 50px;
+}
+.unodered-list {
+  padding-left: 0px;
+  border: 0.5px solid #1e293b;
+  border-top: none;
+  margin-top: 0px;
+}

@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item-container {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.delete {
+  height: 20px;
+}
+.btn {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+  margin-left: 50px;
+  align-self: center;
+}
